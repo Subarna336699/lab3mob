@@ -9,7 +9,6 @@ A simple Flutter application that displays images in a rotating picture frame st
 - Pause and resume functionality for the image rotation.
 
 ## Screenshots
-![App Screenshot](assets/images/screenshot.jpg)
 
 ## Requirements
 - Flutter 3.7.0 or higher
