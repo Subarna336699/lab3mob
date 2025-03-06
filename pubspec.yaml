@@ -1,0 +1,20 @@
+name: rotating_picture_frame
+description: A Flutter project to display rotating images in a frame
+
+# Add the following lines to specify the SDK constraint
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.2.0
+  http: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
